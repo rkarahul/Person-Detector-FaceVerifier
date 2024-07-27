@@ -1,0 +1,73 @@
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    border: 2px solid #dee2e6;
+    /* Border color and width */
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #dee2e6;
+    /* Border color and width */
+    border-radius: 0.5rem;
+}
+
+.text-center h1 {
+    color: #343a40;
+}
+
+.text-center h3 {
+    color: #495057;
+}
+
+.comparison-result p {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.custom-gap {
+    margin-bottom: 2rem;
+    /* Adjust the value as needed */
+}
+.match {
+    color: #28a745; /* Green color for matches */
+}
+.mismatch {
+    color: #dc3545; /* Red color for mismatches */
+}
