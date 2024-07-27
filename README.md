@@ -20,6 +20,5 @@ PersonDetectorFaceVerifier streamlines face detection and verification, making i
 ![Screenshot (75)](https://github.com/user-attachments/assets/1683fd7e-0b38-4fe2-af1d-a6a5d6a822c0)
 ![Screenshot (76)](https://github.com/user-attachments/assets/e64c81be-2260-4756-8bfb-b3040ac95913)
 
-
-https://github.com/user-attachments/assets/889ed29f-52ea-4899-a965-724cab2c0074
+https://github.com/user-attachments/assets/957055ed-30d0-476f-a68f-febbaa5f5bdf
 
